@@ -1,0 +1,10 @@
+{
+  "name": "@breeze32/basic-bun-template",
+  "version": "1.0.0",
+  "author": "Simon Norman",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "1.7.3",
+    "typescript": "5.4.5"
+  }
+}
